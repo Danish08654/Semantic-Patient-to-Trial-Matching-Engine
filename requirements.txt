@@ -1,0 +1,7 @@
+##  Tech Stack
+
+* **AI/ML:** Python, BioBERT, Sentence Transformers
+* **Similarity Search:** FAISS
+* **Data Processing:** Pandas, NumPy
+* **Backend :** FastAPI
+** Streamlit
