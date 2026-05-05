@@ -4,4 +4,4 @@
 * Similarity Search: FAISS
 * Data Processing:Pandas, NumPy
 * Backend : FastAPI
-** Streamlit
+* Streamlit
